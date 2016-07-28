@@ -11,6 +11,7 @@ class RbacAsset extends AssetBundle
 {
     public $sourcePath = '@vendor/shmilyzxt/yii2-adminlte-rbac/asset';
     public $css = [
+        //'AdminLTE-fix.css', //修改过的adminlte
         'fix.css',
     ];
     public $js = [];

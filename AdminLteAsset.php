@@ -15,7 +15,7 @@ class AdminLteAsset extends AssetBundle
 {
     public $sourcePath = '@vendor/almasaeed2010/adminlte/dist';
     public $css = [
-        'css/AdminLTE.min.css',
+        'css/AdminLTE.min.css',//如果要使用修改过的，注销这里，启用RbacAsset.php
     ];
     public $js = [
         'js/app.min.js'

@@ -18,7 +18,9 @@
     "require": {
         "yiisoft/yii2": "*",
         "yiisoft/yii2-bootstrap": "*",
-        "mdmsoft/yii2-admin": "~2.0"
+        "rmrevin/yii2-fontawesome": "*",
+        "mdmsoft/yii2-admin": "~2.0",
+        "almasaeed2010/adminlte": "*"
     },
     "autoload": {
         "psr-4": {
